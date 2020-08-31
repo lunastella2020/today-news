@@ -61,7 +61,7 @@ const Loading = () => {
         <Dot />
         <Dot />
       </DotBlock>
-      <Message>새로운 소식을 로딩중입니다</Message>
+      <Message>새로운 소식을 불러오는 중입니다</Message>
     </LoadingBlock>
   );
 };
